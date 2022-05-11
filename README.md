@@ -26,7 +26,7 @@ To create this power bi dashboard firstly, I performed the ETL (Extract, Transfo
 I have shown the all important information in the dashboard like my experiences, certifications, connections, and skills etc.
 By looking at the dashboard I can clearly make a conclusion that I need to get more active on LinkedIn and have to do some more certifications related to my career interest to make my profile more stronger and powerful.
 ## Credit
-I have used the [LinkedIn][1] help website to create this insightful dashboard.
+I have taken the help of [LinkedIn][1] help website to create this insightful dashboard.
 
 ## Dashboard View
 ![Linkedin Dashboard](https://user-images.githubusercontent.com/105152670/167817172-2a8117b4-5f33-4063-b960-3e3dae3a0203.JPG)
